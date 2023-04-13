@@ -1,0 +1,51 @@
+body{
+    font-family: Arial;
+    text-align: center;
+}
+
+table{
+    border-color: #DDDDDD;
+    border-style: groove;
+    text-align: center;
+}
+
+.cor1{
+    background-color: #CCCCCC;
+    
+}
+
+.cor2{
+    background-color: #F7F7F7;
+}
+
+.cor3{
+    color: #003366;
+    font-weight: bold;
+}
+
+.cor4{
+    color: #1398be;
+    font-weight: bold;
+}
+
+.cor5{
+    color: #DE9800;
+    font-weight: bold;
+}
+
+.cor6{
+    color: #CCCCCC;
+    font-weight: bold;
+}
+
+.cor7{
+    color: #C91B04;
+    font-weight: bold;
+}
+
+.negrito1{
+   font-size: 13px;
+   color: #666666;
+   text-align: left;
+   font-weight: bold;
+}
