@@ -4,14 +4,36 @@ body{
 }
 
 table{
+    border: 1px #DDDDDD solid;
+    border-collapse: collapse;
+}
+
+tr{
+    border-style: solid;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
     border-color: #DDDDDD;
-    border-style: groove;
+}
+
+td{
+    width: 30px;
+}
+
+.P{
+    background-color: #cccccc4b;
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
     text-align: center;
 }
 
 .cor1{
-    background-color: #CCCCCC;
-    
+    background-color: #cccccc4b;
+    font-size: 13px;
+    color: black;
+    text-align: center;
 }
 
 .cor2{
@@ -21,31 +43,60 @@ table{
 .cor3{
     color: #003366;
     font-weight: bold;
+    font-size: 18px;
+    text-align: center;
 }
 
 .cor4{
     color: #1398be;
     font-weight: bold;
+    font-size: 18px;
+    text-align: center;
 }
 
 .cor5{
     color: #DE9800;
     font-weight: bold;
+    font-size: 18px;
+    text-align: center;
 }
 
 .cor6{
     color: #CCCCCC;
     font-weight: bold;
+    font-size: 18px;
+    text-align: center;
 }
 
 .cor7{
     color: #C91B04;
     font-weight: bold;
+    font-size: 18px;
+    text-align: center;
 }
 
-.negrito1{
+.cor8{
+    text-align: center;
+    font-size: 13px;
+}
+.times1{
    font-size: 13px;
    color: #666666;
    text-align: left;
    font-weight: bold;
+}
+
+.classA{
+    background-color: #F7F7F7;
+    font-weight: bold;
+    font-size: 13px;
+    color: #c0bcbc;
+    text-align: center;
+}
+
+.classB{
+    font-weight: bold;
+    font-size: 13px;
+    color: #c0bcbc;
+    text-align: center;
 }

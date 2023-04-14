@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+table{
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 12;
+    text-align: center;
+    background-color: rgb(129, 191, 209);
+}
+
+.one{
+    background-color: rgb(22, 69, 131);
+    color: white;
+    text-align: center;
+}
+
+.two{
+    background-color: rgb(71, 182, 216);
+}
+
+.tree{
+    background-color: silver;
+}
+
+.four{
+    color: rgb(40, 61, 128);
+}
